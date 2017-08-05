@@ -13,7 +13,14 @@
   ],
   "author": "Akio <akio@weeb.sh>",
   "contributors": [
-   "Wolke <wolke@weeb.sh>"
+    "Wolke <wolke@weeb.sh>"
   ],
-  "license": "MIT"
+  "repository": "https://github.com/weeb-services/weeb-services.git",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.2"
+  },
+  "devDependencies": {
+    "eslint": "^4.4.0"
+  }
 }
